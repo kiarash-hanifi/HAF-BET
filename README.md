@@ -40,3 +40,10 @@ Outputs: specific surface area (SSA), surface energy parameter (C)
    - Execute the script.  
    - The code will automatically read the input file, process the data, and output the **HAF-BET specific surface area (SSA)** and **surface energy parameter (C)**.
 
+
+## **Notes**
+Please note that the code is based on using Nitrogen as an adsorbate at 77 K, and the physical properties of Nitrogen are specified at the beginning of the code. If any other gas is used, such as argon, the physical properties and temperature should be tailored to the experimental conditions of the isotherm derivation.
+
+
+
+

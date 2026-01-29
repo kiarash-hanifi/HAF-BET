@@ -1,10 +1,14 @@
 # 🧮 HAF-BET Code
 
 This repository contains all the code and data required to reproduce the results presented in the paper:
-“Application of the Alinaghipour–Falamaki Theory to Mesoporous Materials: Algorithm and Computational Code.”
+
+“Application of the Alinaghipour–Falamaki Theory to Mesoporous Materials: Algorithm and Computational Code,”
+published in Langmuir.
+DOI: https://doi.org/10.1021/acs.langmuir.5c05120
 
 The algorithms and computational framework were originally developed by Kiarash Hanifi and Cavus Falamaki.
-The HAF-BET code can be run in both Octave and MATLAB to calculate the specific surface areas (SSA) and surface energy parameters of mesoporous materials.
+
+The HAF-BET code is compatible with both MATLAB and GNU Octave, and is used to calculate the specific surface area (SSA) and surface energy parameters of mesoporous materials based on the Alinaghipour–Falamaki theory. 
 
 ## **Inputs and Outputs** 
 Input:  desorption isotherm <br>
